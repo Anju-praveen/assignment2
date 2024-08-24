@@ -1,0 +1,13 @@
+body{
+    background-image: url("image.jpeg");
+    background-size: cover;
+    
+}
+form{
+    border: 2px solid white;
+    background-color: white;
+    padding: 4%;
+    width: 30%;
+    margin-left: 300px;
+    margin-top: 60px;
+}
